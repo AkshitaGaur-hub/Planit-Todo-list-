@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+
+body{
+    background-color: rgb(238, 224, 249);
+}
+
+#toggle:hover {
+    color: black;
+    transition-duration: 0.5s;
+}
+
+#box{
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}

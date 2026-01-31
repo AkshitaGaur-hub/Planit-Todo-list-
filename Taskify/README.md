@@ -1,12 +1,29 @@
-# React + Vite
+# 📝 Planit – Smart Todo Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Planit is a simple, fast, and elegant **Todo application built with React** that helps you manage your daily tasks in one place.  
+It supports adding, editing, deleting, and completing tasks with **persistent storage using LocalStorage**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ➕ Add new todos
+- ✏️ Edit existing todos
+- 🗑️ Delete todos
+- ✅ Mark todos as completed
+- 💾 Auto-save using LocalStorage
+- 📱 Responsive and clean UI
+- ⚡ Fast and lightweight
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+  - useState
+  - useEffect
+- **Tailwind CSS**
+- **LocalStorage API**
+- **Material Icons**
+
+
